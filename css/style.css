@@ -10,17 +10,19 @@ header{
   justify-content: center;
   text-align: center;
   border-radius: 20px;
+  position: relative;
 }
 
 aside{
   background-color: #d6acbf;
   color: #9d7488;
-  display: inline-block;
   width: 150px;
   height: 150px;
   text-align: center;
-  margin-top: 20px;
   border-radius: 20px;
+  position: fixed;
+  top: 20px;
+  right: 20px;
 }
 
 hr{
