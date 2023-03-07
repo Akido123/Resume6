@@ -39,6 +39,11 @@ header h2{
   margin-top: 0px;
 }
 
+section{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
 section h2, footer h2{
   color: #8E696B;
 }
